@@ -71,4 +71,8 @@ e.g.
    " settings, as explained below
 2. cscope_map.vim can also be used independently with it's own key mappings. If not csope_maps.vim is not present fzf_cscope.vim can use csope_maps.vim's keyboard shortcuts for convenience of programmers.
       In that case instead of '<Leader>k', '<Ctrl - \>' can be used.
+ 
+ **Self promotion**:
+ 
+ Try [zsh_vim config](https://github.com/nmaiti/zsh-vim-config/tree/to_plug) to_plug branch for latest vim features and plugins
 
